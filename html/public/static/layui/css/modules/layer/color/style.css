@@ -1,0 +1,206 @@
+/*绿色*/
+body .layer-ext-color-green .layui-layer-title{
+    background: #009688;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-green .layui-layer-btn0{
+    color: white;
+    background: #009688;
+    border-color: #009688;
+}
+/*深绿色*/
+body .layer-ext-color-dgreen .layui-layer-title{
+    background: #0c884f;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-dgreen .layui-layer-btn0{
+    color: white;
+    background: #0c884f;
+    border-color: #0c884f;
+}
+/*黄绿色*/
+body .layer-ext-color-yellowgreen .layui-layer-title{
+    background: #5FB878;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-yellowgreen .layui-layer-btn0{
+    color: white;
+    background: #5FB878;
+    border-color: #5FB878;
+}
+/*红色*/
+body .layer-ext-color-red .layui-layer-title{
+    background: #b92c28;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+}
+body .layer-ext-color-red .layui-layer-btn0{
+    color: white;
+    background: #b92c28;;
+    border-color: #b92c28;
+    background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+}
+/*橘色*/
+body .layer-ext-color-orange .layui-layer-title{
+    background: #FF6542;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-orange .layui-layer-btn0{
+    color: white;
+    background: #FF6542;
+    border-color: #FF6542;
+}
+/*藏青*/
+body .layer-ext-color-cyan .layui-layer-title{
+    background: #2F4056;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-cyan .layui-layer-btn0{
+    color: white;
+    background: #2F4056;
+    border-color: #2F4056;
+}
+/*蓝色*/
+body .layer-ext-color-blue .layui-layer-title{
+    background: #1E9FFF;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-blue .layui-layer-btn0{
+    color: white;
+    background: #1E9FFF;
+    border-color: #1E9FFF;
+}
+/*紫色*/
+body .layer-ext-color-violet .layui-layer-title{
+    background: #8a9bcf;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-violet .layui-layer-btn0{
+    color: white;
+    background: #8a9bcf;
+    border-color: #8a9bcf;
+}
+/*天蓝色*/
+body .layer-ext-color-sblue .layui-layer-title{
+    background: #A0DDFF;
+    color: black;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-sblue .layui-layer-btn0{
+    color: black;
+    background: #A0DDFF;
+    border-color: #A0DDFF;
+}
+/*蓝晶色*/
+body .layer-ext-color-Aquamarine .layui-layer-title{
+    background: #78FECF;
+    color: black;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-Aquamarine .layui-layer-btn0{
+    color: black;
+    background: #78FECF;
+    border-color: #78FECF;
+}
+/*蓝晶色*/
+body .layer-ext-color-Celeste .layui-layer-title{
+    background: #B9FAF8;
+    color: black;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-Celeste .layui-layer-btn0{
+    color: black;
+    background: #B9FAF8;
+    border-color: #B9FAF8;
+}
+/*小蓝色*/
+body .layer-ext-color-lblue .layui-layer-title{
+    background: #80A4ED;
+    color: white;
+    padding: 0 80px 0 20px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 2px 2px 0 0;
+}
+body .layer-ext-color-lblue .layui-layer-btn0{
+    color: white;
+    background: #80A4ED;
+    border-color: #80A4ED;
+}
