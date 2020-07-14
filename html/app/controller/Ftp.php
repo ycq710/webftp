@@ -3,8 +3,8 @@ namespace app\controller;
 
 use app\BaseController;
 use think\App;
-use think\Facade\View;
-use think\Facade\Session;
+use think\facade\View;
+use think\facade\Session;
 
 class Ftp extends BaseController{
 
