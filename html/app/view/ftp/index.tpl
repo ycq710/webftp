@@ -223,7 +223,7 @@
                                         skin:'layer-ext-color-green'
                                     },
                                     function(text, index){
-                                        layer.closeAll();
+                                        layer.msg('处理中', {icon: 16,shade: 0.5});
                                         $.post(
                                             "/action/create.html",
                                             {
@@ -232,6 +232,7 @@
                                                 dir:'{:input('param.dir')}'
                                             },
                                             function(result){
+                                            layer.closeAll();
                                                 layer.msg(result.info, {icon: result.code,time:1500},function () {
                                                     if(result.code !=2){
                                                         window.location.reload();
