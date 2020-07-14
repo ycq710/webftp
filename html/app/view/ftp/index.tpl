@@ -176,6 +176,7 @@
                             }
 
                             formData.append('dir', "{:input('param.dir')}");
+                            layer.msg('处理中...', {icon: 16,shade: 0.5});
                             $.ajax({
                                 type: 'post',
                                 dataType: "json",//预期服务器返回的数据类型
@@ -185,6 +186,7 @@
                                 processData: false,
                                 contentType: false,
                                 success: function (res) {
+                                layer.closeAll();
                                     if(res.code == 2){
                                         layer.msg(res.info, {icon: 2});
                                         return false;
@@ -223,7 +225,7 @@
                                         skin:'layer-ext-color-green'
                                     },
                                     function(text, index){
-                                        layer.msg('处理中', {icon: 16,shade: 0.5});
+                                        layer.msg('处理中...', {icon: 16,shade: 0.5});
                                         $.post(
                                             "/action/create.html",
                                             {
