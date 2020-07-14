@@ -1,4 +1,5 @@
 一个简单的web ftb网页工具
+* 使用thinphp6.0 + ace.js + jquery + layer
 ===============
 
 ## 基本功能
